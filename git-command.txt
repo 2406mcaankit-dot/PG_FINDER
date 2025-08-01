@@ -1,0 +1,24 @@
+git init   
+
+
+git remote origin https://github.com/2406mcaankit-dot/PG_FINDER.git   
+
+git remote add origin https://github.com/2406mcaankit-dot/PG_FINDER.git
+
+ git pull
+
+
+ git pull  https://github.com/2406mcaankit-dot/PG_FINDER.git main
+
+ git branch -M main
+ 
+git status  
+
+git add .  
+
+git diff    
+
+ git commit -m "commit by second PC"
+
+ git push origin main
+
